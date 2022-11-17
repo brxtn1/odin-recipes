@@ -25,4 +25,10 @@ p,h1,h2 {
 .text {
     text-align: center;
 }
-.list
+.list {
+    display: inline-block;
+    text-align: left;
+}
+.list-container {
+    text-align: center;
+}
